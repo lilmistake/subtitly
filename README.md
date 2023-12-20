@@ -1,7 +1,17 @@
-# Video Subtitle Generator
+<p align="center">
+<img width="50%" src="https://i.imgur.com/H4HKaa0.jpg"/>
 
-## Description
+
+# SUBTITLY
+
 This Python project automates the process of adding subtitles to videos. It includes various scripts to convert videos to audio, split audio into chunks, perform speech recognition, and generate subtitles in SRT/VTT format.
+
+
+![GitHub issues](https://img.shields.io/github/issues/lilmistake/GuardianFly)
+![GitHub forks](https://img.shields.io/github/forks/lilmistake/GuardianFly)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/lilmistake/GuardianFly)
+![GitHub Repo stars](https://img.shields.io/github/stars/lilmistake/GuardianFly?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/lilmistake/GuardianFly)
 
 ## Installation
 
@@ -42,3 +52,5 @@ This project utilizes several external libraries including `pydub`, `replicate`,
 
 ## License
 This project is released under the MIT License.
+
+</p>
